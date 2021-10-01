@@ -3,4 +3,6 @@ Automatic Recognition of Parasitic Products in Stool Examination Using Object De
 
 ![Flowchart for parasite product recognition](Flowchart for parasite product recognition.png)
 
+Flowchart for parasite product recognition.png
+
 YOLO-based model flowchart for training and testing process of Parasite Products Recognition
